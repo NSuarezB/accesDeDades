@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comanda id_client="01" status='A'>
+	<article>
+		<id>222</id>
+		<unitats>10</unitats>
+		<preu>50</preu>
+	</article>
+	<article>
+		<id>333</id>
+		<unitats>4</unitats>
+		<preu>60</preu>
+	</article>
+</comanda>
