@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comandes>
+	<comanda id_client="AA" id_comanda="1" status='A'>
+		<article>
+			<id>222</id>
+			<unitats>10</unitats>
+			<unitatsServides>0</unitatsServides>
+			<preu>50</preu>
+			<status>0</status>
+		</article>
+	 	<article>
+			<id>333</id>
+			<unitats>4</unitats>
+			<unitatsServides>0</unitatsServides>
+			<preu>60</preu>
+			<status>0</status>
+		</article>
+	</comanda>
+ 	<comanda id_client="BBB" id_comanda="2" status='A'>
+		<article>
+			<id>777</id>
+			<unitats>2</unitats>
+			<unitatsServides>0</unitatsServides>
+			<preu>90</preu>
+			<status>0</status>
+		</article>
+	</comanda>
+	<comanda id_client="CCC" id_comanda="3" status='A'>
+		<article>
+			<id>666</id>
+			<unitats>10</unitats>
+			<unitatsServides>0</unitatsServides>
+			<preu>90</preu>
+			<status>0</status>
+		</article>
+	</comanda>
+</comandes>
